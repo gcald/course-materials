@@ -34,8 +34,8 @@
     - parallel arrays [4]
 
 - object-oriented programming (30%)
-    - [general knowledge][] [2]
-    - classes [2]
+    - [general knowledge][] [x]
+    - classes [x]
     - interfaces [3.5]
     - inheritance [3]
     - polymorphism [x]

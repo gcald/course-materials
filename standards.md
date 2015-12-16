@@ -3,43 +3,43 @@
 - assignment completion (5%)
 
 - history and culture (5%)
-    - [general knowledge][]
+    - [general knowledge][] [3.75]
 
 - design (15%)
-    - [general knowledge][]
-    - debugging and testing correctness
-    - pseudocode
-    - documentation
-    - consistency of style
+    - [general knowledge][] [4]
+    - debugging and testing correctness [3]
+    - pseudocode [3.5]
+    - documentation [4]
+    - consistency of style [3]
 
 - review (15%)
-    - [general knowledge][]
-    - visual studio
-    - data types and representation
-    - operators
-    - control flow
-    - arrays
-    - functions
-    - file I/O
+    - [general knowledge][] [3.75]
+    - visual studio [4]
+    - data types and representation [3]
+    - operators [x]
+    - control flow [3]
+    - arrays [3.5]
+    - functions [3.5]
+    - file I/O [x]
 
 - general programming (30%)
-    - [general knowledge][]
-    - recursion
-    - searching, sorting, and algorithm analysis
-    - type declarations
-    - pointers and references
-    - memory management and dynamic memory
-    - templates
-    - standard library
-    - parallel arrays
+    - [general knowledge][] [4]
+    - recursion [x]
+    - searching, sorting, and algorithm analysis [3]
+    - type declarations [4]
+    - pointers and references [x]
+    - memory management and dynamic memory [x]
+    - templates [x]
+    - standard library [x]
+    - parallel arrays [4]
 
 - object-oriented programming (30%)
-    - [general knowledge][]
-    - classes
-    - interfaces
-    - inheritance
-    - polymorphism
-    - exceptions
+    - [general knowledge][] [2]
+    - classes [2]
+    - interfaces [3.5]
+    - inheritance [3]
+    - polymorphism [x]
+    - exceptions [x]
 
 
 [general knowledge]: ./standards-general-knowledge.md
